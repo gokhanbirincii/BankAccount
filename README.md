@@ -1,4 +1,4 @@
 # BankAccount
 Simple Bank Account Update Balance with Threads
-gcc -pthread BankAccount BankAccount.c
+gcc -pthread -o BankAccount BankAccount.c
 ./BankAccount
